@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"{LGUI}{N1}"
+		],
+		"description": "{LGUI}{N1}",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
